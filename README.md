@@ -1,1 +1,1 @@
-# Fake-News-Prediction
+# Web Scrapping From Department Website
